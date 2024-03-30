@@ -1,0 +1,62 @@
+.abc {
+    background-image: url(./images/bg.png);
+    height: 1000px;
+    width: 100%;
+}
+
+.def {
+    background-color: rgba(0, 0, 0, 0.861)
+}
+
+.ghi {
+    background-color: white;
+}
+
+.h1 {
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bolder;
+    margin-left: 150px;
+    bottom: 1000px;
+}
+
+.main {
+    margin: 0%;
+}
+  .img{
+    bottom: 10000px;
+    top: 0%;
+  }  
+  .text{
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bolder;
+    margin-left: 80px;
+    bottom: 1000px;
+    padding: 0%;
+    margin: 100px;
+  }
+.button{
+    background-color:black; /* black*/
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+  }
+  .mobile{
+    margin-left: 700px;
+    top: 100%;
+  }
+.ghi{
+    background-color:rgba(255, 255, 255, 0.548);
+}
+.xyz{
+    background-color: black;
+
+}
